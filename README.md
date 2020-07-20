@@ -1,5 +1,7 @@
 ### Hi, I`m Abylaikhan Zulbukharov 👋
 
+<img align='right' src="https://thumbs.gfycat.com/GloriousZigzagLadybug-small.gif" width="400">
+
 <p><em>Software Engineer at <a href="https://alem.school">alem school</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![telegram: zulbukharov](https://img.shields.io/badge/-zulbukharov-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/frozen6heart)](https://t.me/frozen6heart)
@@ -7,8 +9,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/Zulbukharov?label=Follow&style=social)
 [![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/abylaikhan-zulbukharov/badges)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Zulbukharov.Zulbukharov)
-
-<img align='right' src="https://thumbs.gfycat.com/GloriousZigzagLadybug-small.gif" width="400">
 
 - 🔭 I’m currently working on lrn.dev
 - 🌱 I’m currently learning golang, web security
