@@ -1,7 +1,7 @@
 {
     "name": "bash-git",
     "title": "Bash + Git",
-    "prev": ["sign-up"],
+    "prev": ["android"],
     "x": 0,
     "y": 100,
     "achievement": {

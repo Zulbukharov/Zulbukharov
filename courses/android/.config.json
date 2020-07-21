@@ -1,7 +1,7 @@
 {
     "name": "android",
     "title": "Android",
-    "prev": ["oop"],
+    "prev": ["android"],
     "x": 400,
     "y": 300,
     "achievement": {
