@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning golang, web security
 - 🤔 I’m looking for help with reverse engineering
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: l1pt0n1905@gmail.com or [![telegram: zulbukharov](https://img.shields.io/badge/-telegram-white?style=flat-square&logo=telegram&logoColor=black&link=https://t.me/frozen6heart)](https://t.me/frozen6heart)
+- 📫 How to reach me: l1pt0n1905@gmail.com or [![telegram: zulbukharov](https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=telegram&logoColor=black&link=https://t.me/frozen6heart)](https://t.me/frozen6heart)
 
 Languages and Tools:
 
