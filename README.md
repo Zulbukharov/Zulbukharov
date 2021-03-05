@@ -10,7 +10,6 @@
 [![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/abylaikhan-zulbukharov/badges)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Zulbukharov.Zulbukharov)
 
-- I’m currently working on lrn.dev
 - I’m currently learning web security
 - I’m looking for help with reverse engineering
 - Ask me about anything, I am happy to help
