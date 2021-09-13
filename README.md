@@ -1,7 +1,5 @@
 ### Hi, I`m Abylaikhan Zulbukharov 👋
 
-<img align='right' src="https://thumbs.gfycat.com/GloriousZigzagLadybug-small.gif" width="400">
-
 <p><em>Software Engineer at <a href="https://alem.school">alem school</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![telegram: frozen6heart](https://img.shields.io/badge/-frozen6heart-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/frozen6heart)](https://t.me/frozen6heart)
