@@ -1,6 +1,4 @@
-### Hi, 👋
-
-<p><em>Go Developer at <a href="https://doodocs.kz">doodocs.kz</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Hi, 👋, I`m Abylaikhan
 
 [![@abylai's Holopin board](https://holopin.me/abylai)](https://holopin.io/@abylai)
 
